@@ -38,10 +38,12 @@ In today's diverse health landscape, generic dietary advice often falls short. R
 - **OpenAI GPT-4o** – powers the language understanding and generation capabilities.
 - **SerperDevTool** – enables real-time web search functionalities.
 
-## 🚀 Getting Started
+## 🖼️ Application Interface
 
-### Prerequisites
-
-- Python 3.9 or higher installed on your system.
-- OpenAI API key.
-- Serper API key.
+![Fig A](images/A.png)
+![Fig B](images/B.png)
+![Fig C](images/C.png)
+![Fig D](images/D.png)
+![Fig E](images/E.png)
+![Fig F](images/F.png)
+![Fig G](images/G.png)
